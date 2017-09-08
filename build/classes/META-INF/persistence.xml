@@ -14,6 +14,7 @@
 			<property name="eclipselink.ddl-generation" value="drop-and-create-tables" />
 			<property name="eclipselink.logging.level.sql" value="FINE" />
 		</properties>
+		
 	</persistence-unit>
 
 </persistence>
